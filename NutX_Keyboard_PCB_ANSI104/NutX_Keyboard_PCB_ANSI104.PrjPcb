@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -88,6 +88,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDHHIVDI
 
+[Document4]
+DocumentPath=卫星轴.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUINPERX
+
+[Document5]
+DocumentPath=卫星轴.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XPUMCVGR
+
+[Document6]
+DocumentPath=NutX_Keyboard_PCB_ANSI104.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDYBPFTT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -101,7 +152,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -207,7 +258,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -275,6 +326,8 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
@@ -285,7 +338,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -307,7 +360,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -379,7 +432,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -416,7 +469,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -596,7 +649,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -640,7 +693,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -701,7 +754,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP Color LaserJet M154nw (AA6D23)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1069,6 +1122,30 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=电容.IntLib
+ComponentDesignItemID0=CAP
+ComponentSymbolReference0=CAP
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=电阻.IntLib
+ComponentDesignItemID1=RES
+ComponentSymbolReference1=RES
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=凯华热插拔-SK6812-3528反贴.SchLib
+ComponentDesignItemID2=MX_SW
+ComponentSymbolReference2=MX_SW
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=卫星轴.SchLib
+ComponentDesignItemID3=MX_卫星轴
+ComponentSymbolReference3=MX_卫星轴
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1082,6 +1159,142 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0201C
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=0201R
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=0402C
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=0402R
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=0603C
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=0603R
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=0805C
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=0805R
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=1206C
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=1206R
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=1210C
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=1808C
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=1812C
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=1812R
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=1825C
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=1X2
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=1x6
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=1x6.25
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=1x7
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=2010R
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=2225C
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=2512R
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=AXIAL0.3
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=AXIAL0.4
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=AXIAL0.5
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=AXIAL0.6
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=AXIAL0.7
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=AXIAL0.8
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=AXIAL0.9
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=AXIAL1.0
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=Kailh Socket MX
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=Kailh Socket MX_Without_Keycap
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=MX_Backspace_2U
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=MX_CapsLock_1.75U
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=MX_Ctrl_Win_Alt_1.25U
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=MX_LeftShift_Enter_2.25U
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=MX_Normal_1U
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=MX_RightShift_2.75U
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=MX_Space_6.25U
+ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=MX_Tab_1.5U
+ModelUpdate39=1
+ModelType40=PCBLIB
+ModelName40=RAD-0.2
+ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=RAD-0.3
+ModelUpdate41=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
