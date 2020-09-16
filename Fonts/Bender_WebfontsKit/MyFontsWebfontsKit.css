@@ -1,0 +1,76 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3945211, 2020-09-07T13:36:54-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Bender-Light by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/light/
+ * 
+ * Webfont: Bender-Italic by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/italic/
+ * 
+ * Webfont: Bender-LightItalic by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/light-italic/
+ * 
+ * Webfont: Bender-Bold by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/bold/
+ * 
+ * Webfont: Bender by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/regular/
+ * 
+ * Webfont: Bender-Black by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/black/
+ * 
+ * Webfont: Bender-BlackItalic by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/black-italic/
+ * 
+ * Webfont: Bender-BoldItalic by Jovanny Lemonad
+ * URL: https://www.myfonts.com/fonts/jovanny-lemonad/bender/bold-italic/
+ * 
+ * 
+ * Webfonts copyright: Copyright (c) 2009 by Oleg Zhuravlev, Gladkikh Ivan. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: 'Bender-Light';
+  src: url('webFonts/Bender-Light/font.woff2') format('woff2'), url('webFonts/Bender-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender';
+  src: url('webFonts/Bender/font.woff2') format('woff2'), url('webFonts/Bender/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-LightItalic';
+  src: url('webFonts/Bender-LightItalic/font.woff2') format('woff2'), url('webFonts/Bender-LightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-Bold';
+  src: url('webFonts/Bender-Bold/font.woff2') format('woff2'), url('webFonts/Bender-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-Italic';
+  src: url('webFonts/Bender-Italic/font.woff2') format('woff2'), url('webFonts/Bender-Italic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-BlackItalic';
+  src: url('webFonts/Bender-BlackItalic/font.woff2') format('woff2'), url('webFonts/Bender-BlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-Black';
+  src: url('webFonts/Bender-Black/font.woff2') format('woff2'), url('webFonts/Bender-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bender-BoldItalic';
+  src: url('webFonts/Bender-BoldItalic/font.woff2') format('woff2'), url('webFonts/Bender-BoldItalic/font.woff') format('woff');
+}
+

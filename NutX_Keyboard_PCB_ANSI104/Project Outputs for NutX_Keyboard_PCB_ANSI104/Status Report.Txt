@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 上午 02:21:35 On 2020-9-7 周一
+
+Output: BRD_STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [NutX_Keyboard_PCB_ANSI104.PcbDoc]
+   Generated File[NutX_Keyboard_PCB_ANSI104.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 上午 02:21:45 On 2020-9-7 周一

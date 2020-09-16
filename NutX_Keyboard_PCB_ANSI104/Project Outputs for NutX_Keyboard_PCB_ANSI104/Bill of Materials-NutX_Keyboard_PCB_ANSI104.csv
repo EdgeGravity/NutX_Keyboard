@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Pins,Quantity,Model:Footprint
+
+"104","无极性电容","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C60, C61, C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72, C73, C74, C75, C76, C77, C78, C79, C80, C81, C82, C83, C84, C85, C86, C87, C88, C89, C90, C91, C92, C93, C94, C95, C96, C97, C98, C99, C100, C101, C102, C103, C104","0603C","CAP","2","104",""
+"FPC0.5-40P","贴片","J1","FPC0.5-40P","FPC0.5-40P","40","1",""
+"MX_SW","","KEY_0, KEY_1, KEY_2, KEY_3, KEY_4, KEY_5, KEY_6, KEY_7, KEY_8, KEY_9, KEY_A, KEY_ADD, KEY_B, KEY_BackwardSquareBracket, KEY_C, KEY_Colon, KEY_Comma, KEY_D, KEY_Delete, KEY_DOWN, KEY_E, KEY_End, KEY_ESC, KEY_F, KEY_F1, KEY_F2, KEY_F3, KEY_F4, KEY_F5, KEY_F6, KEY_F7, KEY_F8, KEY_F9, KEY_F10, KEY_F11, KEY_F12, KEY_ForwardSquareBracket, KEY_FullStop, KEY_G, KEY_H, KEY_Home, KEY_I, KEY_Insert, KEY_J, KEY_K, KEY_L, KEY_LEFT, KEY_M, KEY_N, KEY_Num1, KEY_Num2, KEY_Num3, KEY_Num4, KEY_Num5, KEY_Num6, KEY_Num7, KEY_Num8, KEY_Num9, KEY_NumDIV, KEY_NumFullStop, KEY_NumLock, KEY_NumMUL, KEY_NumSUB, KEY_O, KEY_P, KEY_Pause, KEY_PgDn, KEY_PgUp, KEY_PrtSc, KEY_Q, KEY_Quotation, KEY_R, KEY_RIGHT, KEY_S, KEY_ScrollLock, KEY_Slash, KEY_SUB, KEY_T, KEY_U, KEY_UP, KEY_V, KEY_W, KEY_WAVE, KEY_X, KEY_Y, KEY_Z","MX_Normal_1U","MX_SW","6","86","1U 长度按键"
+"MX_SW","","KEY_Backslash, KEY_Tab","MX_Tab_1.5U","MX_SW","6","2","1.5U 长度按键"
+"MX_SW","","KEY_Backspace, KEY_Num0, KEY_NumADD, KEY_NumEnter","MX_Backspace_2U","MX_SW","6","4","2U 长度按键"
+"MX_SW","","KEY_CapsLock","MX_CapsLock_1.75U","MX_SW","6","1","1.75U 长度按键"
+"MX_SW","","KEY_Enter, KEY_LShift","MX_LeftShift_Enter_2.25U","MX_SW","6","2","2.25U 长度按键"
+"MX_SW","","KEY_Fn, KEY_LAlt, KEY_LCtrl, KEY_LWin, KEY_RAlt, KEY_RCtrl, KEY_RWin","MX_Ctrl_Win_Alt_1.25U","MX_SW","6","7","1.25U 长度按键"
+"MX_SW","","KEY_RShift","MX_RightShift_2.75U","MX_SW","6","1","2.75U 长度按键"
+"MX_SW","","KEY_Space","MX_Space_6.25U","MX_SW","6","1","6.25U 长度按键"
+"500R","","R0, R1","0603R","RES","2","2",""
+"10K","","R2, R4, R6, R8, R10, R12","0603R","RES","2","6",""
+"1K","","R3, R5, R7, R9, R11, R13","0603R","RES","2","6",""
+"MX_卫星轴","Cherry MX Stabilizer 樱桃卫星轴","STAB1, STAB2, STAB3, STAB4, STAB6, STAB7, STAB8","1X2","MX_卫星轴","0","7","stab"
+"MX_卫星轴_空格键6.25U","Cherry MX Stabilizer 樱桃卫星轴","STAB5","1x6.25","MX_卫星轴","0","1","stab"
