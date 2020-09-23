@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for NutX_Keyboard_PCB_ANSI104
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -161,102 +161,106 @@ DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\Bill of Materials-Nut
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\Fabrication Testpoint Report for NutX_Keyboard_PCB_ANSI104.ipc
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\Design Rule Check - NutX_Keyboard_PCB_ANSI104.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104-NonPlated.TXT
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\Fabrication Testpoint Report for NutX_Keyboard_PCB_ANSI104.ipc
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104-Plated.TXT
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.DRR
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.EXTREP
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBL
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBO
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBP
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBS
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GD1
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GG1
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GKO
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GM1
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GM32767
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GPB
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GM32767
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GPT
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTL
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTO
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTP
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTS
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.LDP
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.REP
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.RUL
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\NutX_Keyboard_PCB_ANSI104.step
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\NutX_Keyboard_PCB_ANSI104.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\NutX_Keyboard_PCB_ANSI104.step
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\Pick Place for NutX_Keyboard_PCB_ANSI104.csv
 DItemRevisionGUID=
 
@@ -307,7 +311,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for NutX_Keyboard_PCB_ANSI104
 
 [OutputGroup1]
 Name=Netlist Outputs
