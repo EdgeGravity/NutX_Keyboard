@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=5V Pin=C54-2
+Added Pin To Net: NetName=5V Pin=KEY_PgDn-5
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R2 10K
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R4 10K
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R6 10K
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R8 10K
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R10 10K
+Added Member To Class: ClassName=NutX_Keyboard_PCB_ANSI104 Member=Component R12 10K
