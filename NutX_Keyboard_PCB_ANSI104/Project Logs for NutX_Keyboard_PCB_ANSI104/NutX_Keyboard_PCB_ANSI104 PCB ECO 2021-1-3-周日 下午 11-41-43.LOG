@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=COL7 Pin=KEY_Fn-2
+Removed Pin From Net: NetName=COL5 Pin=KEY_RAlt-2
+Removed Pin From Net: NetName=COL8 Pin=KEY_RCtrl-2
+Removed Pin From Net: NetName=COL6 Pin=KEY_RWin-2
+Removed Pin From Net: NetName=COL4 Pin=KEY_Space-2
+Added Pin To Net: NetName=COL13 Pin=KEY_Fn-2
+Added Pin To Net: NetName=COL11 Pin=KEY_RAlt-2
+Added Pin To Net: NetName=COL14 Pin=KEY_RCtrl-2
+Added Pin To Net: NetName=COL12 Pin=KEY_RWin-2
+Added Pin To Net: NetName=COL6 Pin=KEY_Space-2
