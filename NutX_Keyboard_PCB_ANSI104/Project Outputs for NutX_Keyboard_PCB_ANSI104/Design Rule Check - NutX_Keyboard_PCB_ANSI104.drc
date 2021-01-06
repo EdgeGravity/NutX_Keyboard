@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Org-EdgeGravity\NutX_Keyboard\NutX_Keyboard_PCB_ANSI104\NutX_Keyboard_PCB_ANSI104.PcbDoc
-Date     : 2021-1-4-周一
-Time     : 上午 02:12:10
+Date     : 2021-1-6-周三
+Time     : 下午 11:23:26
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -117,9 +117,12 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (All),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (5.182mil < 10mil) Between Polygon Region (333 hole(s)) Bottom Layer And Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.182mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.325mil < 10mil) Between Polygon Track (12966.258mil,1989.855mil)(12996.258mil,1989.855mil) on Bottom Layer And Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.325mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.161mil < 10mil) Between Polygon Track (12996.258mil,1959.855mil)(12996.258mil,1989.855mil) on Bottom Layer And Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.161mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.44mil < 10mil) Between Polygon Track (12996.258mil,1989.855mil)(12996.258mil,2019.855mil) on Bottom Layer And Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.44mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.174mil < 10mil) Between Polygon Track (12996.258mil,1989.855mil)(13026.258mil,1989.855mil) on Bottom Layer And Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.174mil]
    Violation between Silk To Solder Mask Clearance Constraint: (5.309mil < 10mil) Between Text "ESSENTIAL μsical+" (13150mil,1911.216mil) on Bottom Overlay And Via (12996.258mil,1989.855mil) from Top Layer to Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [5.309mil]
-Rule Violations :2
+Rule Violations :5
 
 Processing Rule : Silk To Solder Mask (Clearance=0mil) (InComponentClass('NutX_Keyboard_PCB_ANSI104')),(All)
 Rule Violations :0
@@ -134,6 +137,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 88
+Violations Detected : 91
 Waived Violations : 0
-Time Elapsed        : 00:00:10
+Time Elapsed        : 00:00:15
