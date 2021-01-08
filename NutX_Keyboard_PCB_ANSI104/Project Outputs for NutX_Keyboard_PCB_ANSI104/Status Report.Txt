@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 上午 02:07:35 On 2021-1-8-周五
-
-Output: BRD_STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [NutX_Keyboard_PCB_ANSI104.PcbDoc]
-   Generated File[NutX_Keyboard_PCB_ANSI104.step]
+Output: IPC 网表文件
+Type  : Test Points
+From  : PCB Document [NutX_Keyboard_PCB_ANSI104.PcbDoc]
+   Generated File[Fabrication Testpoint Report for NutX_Keyboard_PCB_ANSI104.ipc]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 上午 02:07:45 On 2021-1-8-周五
+Finished Output Generation At 上午 04:16:29 On 2021-1-9-周六

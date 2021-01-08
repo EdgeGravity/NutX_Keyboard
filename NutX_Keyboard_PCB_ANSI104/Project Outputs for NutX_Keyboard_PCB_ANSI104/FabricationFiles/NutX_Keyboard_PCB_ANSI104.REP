@@ -2,94 +2,10 @@
 FileName = NutX_Keyboard_PCB_ANSI104.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : NutX_Keyboard_PCB_ANSI104.GM1
+Generating : Bottom Paste
+      File : NutX_Keyboard_PCB_ANSI104.GBP
 
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D13
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : NutX_Keyboard_PCB_ANSI104.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : NutX_Keyboard_PCB_ANSI104.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D52
-    D53
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : NutX_Keyboard_PCB_ANSI104.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : NutX_Keyboard_PCB_ANSI104.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : NutX_Keyboard_PCB_ANSI104.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : NutX_Keyboard_PCB_ANSI104.GPB
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -97,10 +13,6 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D21
-    D22
-    D23
-    D24
     D27
     D28
     D29
@@ -112,6 +24,27 @@ Used DCodes :
     D35
     D36
     D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : NutX_Keyboard_PCB_ANSI104.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
@@ -147,28 +80,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : NutX_Keyboard_PCB_ANSI104.GBP
+Generating : Drill Drawing
+      File : NutX_Keyboard_PCB_ANSI104.GD1
 
-    Adding Layer      : Bottom Paste
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D10
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : NutX_Keyboard_PCB_ANSI104.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D52
 *************************************************************
 
 *************************************************************
@@ -213,10 +150,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : NutX_Keyboard_PCB_ANSI104.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : NutX_Keyboard_PCB_ANSI104.GTL
 
     Adding Layer      : Top Layer
 
@@ -224,13 +159,65 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NutX_Keyboard_PCB_ANSI104.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : NutX_Keyboard_PCB_ANSI104.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : NutX_Keyboard_PCB_ANSI104.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -245,6 +232,28 @@ Generating : Top Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : NutX_Keyboard_PCB_ANSI104.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : NutX_Keyboard_PCB_ANSI104.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D51
 *************************************************************
 
 *************************************************************

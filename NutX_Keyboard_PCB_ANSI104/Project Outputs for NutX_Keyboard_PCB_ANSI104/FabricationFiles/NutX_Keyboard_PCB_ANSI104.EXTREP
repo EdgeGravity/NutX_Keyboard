@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: NutX_Keyboard_PCB_ANSI104.GBR   2021-1-8-周五  上午 02:06:29
+Gerber File Extension Report For: NutX_Keyboard_PCB_ANSI104.GBR   2021-1-9-周六  上午 04:16:14
 ------------------------------------------------------------------------------------------
 
 
@@ -15,6 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
 .GM32767            Route Guide                             
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
