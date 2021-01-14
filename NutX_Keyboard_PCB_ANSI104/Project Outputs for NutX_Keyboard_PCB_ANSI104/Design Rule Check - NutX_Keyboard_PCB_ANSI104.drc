@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Org-EdgeGravity\NutX_Keyboard\NutX_Keyboard_PCB_ANSI104\NutX_Keyboard_PCB_ANSI104.PcbDoc
-Date     : 2021-1-9-周六
-Time     : 上午 04:14:14
+Date     : 2021-1-15-周五
+Time     : 上午 02:17:27
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -45,10 +45,13 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:18
+Time Elapsed        : 00:00:24
