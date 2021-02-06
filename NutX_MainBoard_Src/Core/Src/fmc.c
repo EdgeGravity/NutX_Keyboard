@@ -6,7 +6,7 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2020 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2021 STMicroelectronics.
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under Ultimate Liberty license
@@ -29,7 +29,15 @@ SDRAM_HandleTypeDef hsdram1;
 /* FMC initialization function */
 void MX_FMC_Init(void)
 {
+  /* USER CODE BEGIN FMC_Init 0 */
+
+  /* USER CODE END FMC_Init 0 */
+
   FMC_SDRAM_TimingTypeDef SdramTiming = {0};
+
+  /* USER CODE BEGIN FMC_Init 1 */
+
+  /* USER CODE END FMC_Init 1 */
 
   /** Perform the SDRAM1 memory initialization sequence
   */
@@ -59,6 +67,9 @@ void MX_FMC_Init(void)
     Error_Handler( );
   }
 
+  /* USER CODE BEGIN FMC_Init 2 */
+
+  /* USER CODE END FMC_Init 2 */
 }
 
 static uint32_t FMC_Initialized = 0;

@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for NutX_Keyboard_PCB_ANSI104
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -265,34 +265,6 @@ DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\NutX_Keyboard_PCB_ANS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-05-11.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-07-06.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-07-20.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-07-52.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-08-32.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-08-58.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=NutX_Keyboard_PCB_ANSI104 2021-1-15-周五 上午 01-24-10.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument35]
 DocumentPath=Project Outputs for NutX_Keyboard_PCB_ANSI104\FabricationFiles\Pick Place for NutX_Keyboard_PCB_ANSI104.csv
 DItemRevisionGUID=
 
@@ -343,7 +315,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for NutX_Keyboard_PCB_ANSI104
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
